@@ -20,8 +20,11 @@
   --font-size-xxxxl: 40px;
   --font-size-xxxxxl: 58px;
  
-  --font-family-inter: "Inter", Helvetica;
+  --font-family-inter-extrabold: "Inter-ExtraBold", Helvetica;
+  --font-family-inter-regular: "Inter-Regular", Helvetica;
+  --font-family-inter-semibold: "Inter-SemiBold", Helvetica;
   --font-family-montserrat: "Montserrat", Helvetica;
+  --font-family-montserrat-semibold: "Montserrat-SemiBold", Helvetica;
 }
 .link {
   font-family: var(--font-family-montserrat);
@@ -81,7 +84,7 @@
 
 .inter-semi-bold-green-pea-16px {
   color: var(--green-pea);
-  font-family: var(--font-family-inter);
+  font-family: var(--font-family-inter-semibold);
   font-size: var(--font-size-l);
   font-style: normal;
   font-weight: 600;
@@ -89,7 +92,7 @@
 
 .inter-semi-bold-ottoman-16px {
   color: var(--faded-primary-color);
-  font-family: var(--font-family-inter);
+  font-family: var(--font-family-inter-semibold);
   font-size: var(--font-size-l);
   font-style: normal;
   font-weight: 600;

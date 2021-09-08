@@ -265,6 +265,7 @@
 
 .pricing .h1-headline-sec {
   color: var(--text-color);
+  font-weight: 700;
   line-height: 80px;
   min-height: 80px;
   text-align: center;
@@ -320,7 +321,7 @@
 
 .pricing .place {
   color: var(--green-pea);
-  font-family: var(--font-family-inter);
+  font-family: var(--font-family-inter-extrabold);
   font-size: var(--font-size-xxxl);
   font-weight: 800;
   letter-spacing: -0.88px;
@@ -339,7 +340,7 @@
 
 .pricing .price {
   color: var(--green-pea);
-  font-family: var(--font-family-inter);
+  font-family: var(--font-family-inter-semibold);
   font-size: 42px;
   font-weight: 600;
   left: 0;
@@ -354,7 +355,7 @@
 
 .pricing .month {
   color: var(--green-pea);
-  font-family: var(--font-family-inter);
+  font-family: var(--font-family-inter-regular);
   font-size: var(--font-size-m);
   left: 68px;
   letter-spacing: 0;
@@ -365,10 +366,10 @@
   white-space: nowrap;
 }
 
-.pricing .text-2 {
+.pricing .text-15 {
   align-self: flex-end;
   color: var(--green-pea);
-  font-family: var(--font-family-inter);
+  font-family: var(--font-family-inter-regular);
   font-size: var(--font-size-l);
   letter-spacing: 0;
   line-height: 24px;
@@ -627,7 +628,7 @@
 
 .pricing .place-1 {
   color: var(--light-background-color);
-  font-family: var(--font-family-inter);
+  font-family: var(--font-family-inter-extrabold);
   font-size: var(--font-size-xxxl);
   font-weight: 800;
   letter-spacing: -0.88px;
@@ -636,7 +637,7 @@
 
 .pricing .contact-us {
   color: var(--faded-primary-color);
-  font-family: var(--font-family-inter);
+  font-family: var(--font-family-inter-semibold);
   font-size: var(--font-size-xl);
   font-weight: 600;
   letter-spacing: 0;
@@ -766,7 +767,7 @@
   top: 72px;
 }
 
-.pricing .text-1 {
+.pricing .text-14 {
   letter-spacing: 0;
   line-height: 24px;
   margin-left: 12px;
@@ -852,9 +853,9 @@
   width: 376px;
 }
 
-.pricing .text-3 {
+.pricing .text-16 {
   color: var(--green-pea);
-  font-family: var(--font-family-montserrat);
+  font-family: var(--font-family-montserrat-semibold);
   font-size: var(--font-size-m);
   font-weight: 600;
   letter-spacing: 0.20px;
@@ -910,7 +911,7 @@
   width: 1440px;
 }
 
-.pricing .text-4 {
+.pricing .text-17 {
   align-self: flex-end;
   color: var(--green-pea);
   font-weight: 700;
@@ -939,7 +940,7 @@
   width: 256px;
 }
 
-.pricing .text-5 {
+.pricing .text-18 {
   color: var(--green-pea);
   font-weight: 700;
   left: 210px;
