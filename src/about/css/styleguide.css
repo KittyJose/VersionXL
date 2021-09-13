@@ -1,0 +1,118 @@
+:root { 
+  --black: #000000;
+  --faded-primary-color: #eff8ed;
+  --green-pea: #1d6f42;
+  --light-background-color: #ffffff;
+  --light-gray-1: #f9f9f9;
+  --light-text-color: #ffffff;
+  --light-text-gray-1: #f9f9f9;
+  --second-text-color: #727272;
+  --text-color: #252b42;
+ 
+  --font-size-24px: 24px;
+  --font-size-58px: 58px;
+  --font-size-l: 15px;
+  --font-size-m: 14px;
+  --font-size-s: 13px;
+  --font-size-xl: 16px;
+  --font-size-xs: 12px;
+  --font-size-xxl: 20px;
+  --font-size-xxs: 10px;
+ 
+  --font-family-montserrat: "Montserrat", Helvetica;
+}
+.link {
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+}
+
+.paragraph {
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.2px;
+}
+
+.h1 {
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-58px);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+}
+
+.small {
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.2px;
+}
+
+.h4 {
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.2px;
+}
+
+.h3 {
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-24px);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.1px;
+}
+
+.montserrat-normal-black-10px {
+  color: var(--black);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.montserrat-bold-green-pea-9px {
+  color: var(--green-pea);
+  font-family: var(--font-family-montserrat);
+  font-size: 9px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.montserrat-normal-sonic-silver-16px {
+  color: var(--second-text-color);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.montserrat-bold-ebony-clay-24px {
+  color: var(--text-color);
+  font-family: var(--font-family-montserrat);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.montserrat-normal-sonic-silver-13px {
+  color: var(--second-text-color);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.montserrat-bold-ebony-clay-36px {
+  color: var(--text-color);
+  font-family: var(--font-family-montserrat);
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+}

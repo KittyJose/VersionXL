@@ -1,0 +1,52 @@
+:root { 
+  --faded-primary-color: #eff8ed;
+  --green-pea: #1d6f42;
+  --light-background-color: #ffffff;
+  --light-gray-1: #f9f9f9;
+  --light-text-color: #ffffff;
+  --light-text-gray-1: #f9f9f9;
+  --ottoman: #eff8ed33;
+  --second-text-color: #727272;
+  --text-color: #252b42;
+ 
+  --font-size-l: 32px;
+  --font-size-m: 20px;
+  --font-size-s: 15px;
+  --font-size-xl: 36px;
+  --font-size-xs: 14px;
+  --font-size-xxl: 58px;
+  --font-size-xxs: 9px;
+ 
+  --font-family-montserrat: "Montserrat", Helvetica;
+}
+.link {
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+}
+
+.h1 {
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+}
+
+.h4 {
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.2px;
+}
+
+.montserrat-bold-green-pea-9px {
+  color: var(--green-pea);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 700;
+}
