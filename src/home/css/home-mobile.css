@@ -1062,6 +1062,8 @@
   top: 1114px;
   width: 1442px;
   background-color: var(--faded-primary-color);
+  align-items: center;
+  padding-right: 70px;
 }
 
 .home-desktop .div {
