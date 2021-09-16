@@ -67,6 +67,7 @@
 }
 
 .about-desktop .h1-headline-sec {
+  margin-top: 130px;
   color: var(--ebony-clay);
   font-family: var(--font-family-montserrat);
   font-size: 58px;
