@@ -1,14 +1,11 @@
 :root { 
-  --faded-primary-color: #eff8ed;
+  --ebony-clay: #252b42;
   --green-pea: #1d6f42;
-  --light-background-color: #ffffff;
-  --light-gray-1: #f9f9f9;
-  --light-text-color: #ffffff;
-  --light-text-gray-1: #f9f9f9;
-  --second-text-color: #727272;
-  --text-color: #252b42;
+  --hint-of-red: #f9f9f9;
+  --ottoman: #eff8ed;
+  --sonic-silver: #727272;
+  --white: #ffffff;
  
-  --font-size-58px: 58px;
   --font-size-l: 16px;
   --font-size-m: 14px;
   --font-size-s: 12px;
@@ -20,46 +17,6 @@
   --font-family-inter: "Inter", Helvetica;
   --font-family-montserrat: "Montserrat", Helvetica;
 }
-.link {
-  font-family: var(--font-family-montserrat);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 700;
-  letter-spacing: 0.2px;
-}
-
-.paragraph {
-  font-family: var(--font-family-montserrat);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 400;
-  letter-spacing: 0.2px;
-}
-
-.h1 {
-  font-family: var(--font-family-montserrat);
-  font-size: var(--font-size-58px);
-  font-style: normal;
-  font-weight: 700;
-  letter-spacing: 0.2px;
-}
-
-.small {
-  font-family: var(--font-family-montserrat);
-  font-size: var(--font-size-s);
-  font-style: normal;
-  font-weight: 400;
-  letter-spacing: 0.2px;
-}
-
-.h4 {
-  font-family: var(--font-family-montserrat);
-  font-size: var(--font-size-xl);
-  font-style: normal;
-  font-weight: 400;
-  letter-spacing: 0.2px;
-}
-
 .montserrat-semi-bold-green-pea-16px {
   color: var(--green-pea);
   font-family: var(--font-family-montserrat);
@@ -69,7 +26,7 @@
 }
 
 .montserrat-semi-bold-ottoman-16px {
-  color: var(--faded-primary-color);
+  color: var(--ottoman);
   font-family: var(--font-family-montserrat);
   font-size: var(--font-size-l);
   font-style: normal;
@@ -84,12 +41,36 @@
   font-weight: 400;
 }
 
+.montserrat-bold-sonic-silver-14px {
+  color: var(--sonic-silver);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
 .montserrat-bold-green-pea-9px {
   color: var(--green-pea);
   font-family: var(--font-family-montserrat);
   font-size: var(--font-size-xs);
   font-style: normal;
   font-weight: 700;
+}
+
+.montserrat-bold-green-pea-14px {
+  color: var(--green-pea);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.montserrat-normal-sonic-silver-20px {
+  color: var(--sonic-silver);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
 }
 
 .montserrat-extra-bold-green-pea-22px {
@@ -125,7 +106,7 @@
 }
 
 .montserrat-extra-bold-white-22px {
-  color: var(--light-background-color);
+  color: var(--white);
   font-family: var(--font-family-montserrat);
   font-size: var(--font-size-xxl);
   font-style: normal;
@@ -133,7 +114,7 @@
 }
 
 .montserrat-semi-bold-ottoman-42px {
-  color: var(--faded-primary-color);
+  color: var(--ottoman);
   font-family: var(--font-family-montserrat);
   font-size: var(--font-size-xxxl);
   font-style: normal;
@@ -146,6 +127,22 @@
   font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 600;
+}
+
+.montserrat-normal-sonic-silver-14px {
+  color: var(--sonic-silver);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.montserrat-normal-green-pea-12px {
+  color: var(--green-pea);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
 }
 
 .border-1px-green-pea {

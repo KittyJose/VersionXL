@@ -1,13 +1,10 @@
 :root { 
-  --faded-primary-color: #eff8ed;
+  --ebony-clay: #252b42;
   --green-pea: #1d6f42;
-  --light-background-color: #ffffff;
-  --light-gray-1: #f9f9f9;
-  --light-text-color: #ffffff;
-  --light-text-gray-1: #f9f9f9;
   --ottoman: #eff8ed33;
-  --second-text-color: #727272;
-  --text-color: #252b42;
+  --ottoman-2: #eff8ed;
+  --sonic-silver: #727272;
+  --white: #ffffff;
  
   --font-size-l: 32px;
   --font-size-m: 20px;
@@ -19,34 +16,26 @@
  
   --font-family-montserrat: "Montserrat", Helvetica;
 }
-.link {
+.montserrat-bold-sonic-silver-14px {
+  color: var(--sonic-silver);
   font-family: var(--font-family-montserrat);
   font-size: var(--font-size-xs);
   font-style: normal;
   font-weight: 700;
-  letter-spacing: 0.2px;
-}
-
-.h1 {
-  font-family: var(--font-family-montserrat);
-  font-size: var(--font-size-xxl);
-  font-style: normal;
-  font-weight: 700;
-  letter-spacing: 0.2px;
-}
-
-.h4 {
-  font-family: var(--font-family-montserrat);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 400;
-  letter-spacing: 0.2px;
 }
 
 .montserrat-bold-green-pea-9px {
   color: var(--green-pea);
   font-family: var(--font-family-montserrat);
   font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.montserrat-bold-green-pea-14px {
+  color: var(--green-pea);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xs);
   font-style: normal;
   font-weight: 700;
 }
