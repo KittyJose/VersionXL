@@ -4,83 +4,70 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
 <url>
   <loc>https://versionxl.com/</loc>
-  <lastmod>2021-10-05T07:40:01+00:00</lastmod>
+  <lastmod>2021-11-30T15:32:33+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
+  <loc>https://versionxl.com/features/</loc>
+  <lastmod>2021-11-30T15:32:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://versionxl.com/pricing-and-packages/</loc>
+  <lastmod>2021-11-30T15:32:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://versionxl.com/blog/</loc>
-  <lastmod>2021-10-05T07:45:08+00:00</lastmod>
+  <lastmod>2021-11-30T15:32:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://versionxl.com/about/</loc>
-  <lastmod>2021-10-05T07:40:01+00:00</lastmod>
+  <loc>https://versionxl.com/about-versionxl/</loc>
+  <lastmod>2021-11-30T15:32:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://versionxl.com/pricing/</loc>
-  <lastmod>2021-10-05T07:40:01+00:00</lastmod>
+  <loc>https://versionxl.com/sign-up/</loc>
+  <lastmod>2021-11-30T15:32:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://versionxl.com/demo/</loc>
-  <lastmod>2021-10-05T07:40:01+00:00</lastmod>
+  <loc>https://versionxl.com/current-problems-with-excel/</loc>
+  <lastmod>2021-11-30T15:32:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://versionxl.com/demo/Demo.html</loc>
-  <lastmod>2021-09-15T14:16:44+00:00</lastmod>
+  <loc>https://versionxl.com/versionxl-security-and-compliance/</loc>
+  <lastmod>2021-11-30T15:32:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://versionxl.com/financial-controller-use-case/</loc>
+  <lastmod>2021-11-30T15:32:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://versionxl.com/need-more-control-of-excel/</loc>
+  <lastmod>2021-11-30T15:32:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://versionxl.com/blog/?p=150</loc>
-  <lastmod>2021-10-05T07:45:08+00:00</lastmod>
+  <loc>https://versionxl.com/regulatory-compliance-headaches-with-excel/</loc>
+  <lastmod>2021-11-30T15:32:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://versionxl.com/blog/?p=148</loc>
-  <lastmod>2021-10-05T07:45:08+00:00</lastmod>
+  <loc>https://versionxl.com/contact/</loc>
+  <lastmod>2021-11-30T15:32:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://versionxl.com/blog/?p=114</loc>
-  <lastmod>2021-10-05T07:45:08+00:00</lastmod>
+  <loc>https://versionxl.com/state-of-the-art/</loc>
+  <lastmod>2021-11-30T15:32:33+00:00</lastmod>
   <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://versionxl.com/blog/?p=1</loc>
-  <lastmod>2021-10-05T07:45:08+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://versionxl.com/index.html</loc>
-  <lastmod>2021-10-05T07:40:01+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://versionxl.com/about/About.html</loc>
-  <lastmod>2021-09-15T14:16:44+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://versionxl.com/pricing/Pricing.html</loc>
-  <lastmod>2021-09-15T14:16:44+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://versionxl.com/blog/?p=212</loc>
-  <lastmod>2021-10-05T07:45:08+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://versionxl.com/blog/?p=186</loc>
-  <lastmod>2021-10-05T07:45:08+00:00</lastmod>
-  <priority>0.51</priority>
 </url>
 
 
